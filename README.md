@@ -17,6 +17,7 @@
 <img  width="24px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 <img  width="54px" src="https://www.khronos.org/assets/images/api_logos/webgl.svg" />
 <img  width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" />
+<img  width="24px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Ffree-png-htzyx&psig=AOvVaw2m7ihdyFsxiX7dlsHhq3BA&ust=1627069742011000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjaiqS59_ECFQAAAAAdAAAAABAD" />
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-61DAFB?logo=telegram)](https://t.me/TRICKSTER_PUH)

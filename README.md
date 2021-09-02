@@ -4,8 +4,8 @@
  - C#, Unity
  - Python, Django
  - JavaScript, TypeScript
- - React, React-Hooks, React-Router, Redux, three.js
- - three.js, webGL, GLSL
+ - React, React-Hooks, React-Router, Redux, Fiber Arh.
+ - three.js, webGL, GLSL, PIXI.js 
  - CSS, SASS/SCSS,  Flex, Grid
  - Git, Webpack, VSCode, gulp,
  - atom, web-shtorm

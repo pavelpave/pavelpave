@@ -19,7 +19,7 @@
 <img  width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" />
 
 ### Follow Me:
-[![Telegram](https://img.shields.io/badge/-Telegram-61DAFB?logo=telegram)](https://t.me/TRICKSTER_PUH)
+[![Telegram](https://img.shields.io/badge/-Telegram-61DAFB?logo=telegram)](https://t.me/banseko)
 
 Email: akametheend@gmail.com
  
